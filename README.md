@@ -1,4 +1,2 @@
 # Prueba
-jejejejej
-aver aver 
-yurix
+Código para el funcionamiento de una cisterna. 
